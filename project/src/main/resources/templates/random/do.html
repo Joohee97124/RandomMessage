@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+<div class="container">
+  <div>
+    <table>
+      <thead>
+      <tr>
+        <th>#</th>
+        <th>오늘의 구절</th>
+      </tr>
+      </thead>
+      <tbody>
+          <td th:text="${book.name}"></td>
+          <th>-</th>
+          <td th:text="${book.content}"></td>
+      </tbody>
+    </table>
+  </div>
+</div> <!-- /container -->
+</body>
+</html>
