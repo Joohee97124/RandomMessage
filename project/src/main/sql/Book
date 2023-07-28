@@ -1,0 +1,10 @@
+CREATE TABLE book (
+	id INT,
+	name VARCHAR(255) not null,
+	content VARCHAR(255),
+	Primary key (id)
+)
+
+INSERT INTO BOOK VALUES(1, '어린왕자', '너가 4시에 온다면 나는 3시부터 어쩌고');
+INSERT INTO BOOK VALUES(2, '뮬란', '역경 속에서 피는 꽃이 어쩌고');
+INSERT INTO BOOK VALUES(3, '엘리멘탈', '물이랑 불이 어쩌고');
