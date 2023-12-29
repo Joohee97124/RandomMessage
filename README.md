@@ -13,5 +13,8 @@
 ## ERD
 ![ERD](https://github.com/Joohee97124/RandomMessage/assets/70319866/418b302b-4e34-4212-8c5e-813a10b72a4d)
 
+## Toubleshooting
+https://www.notion.so/RandomMessage-28e3c517e6f84c52b15324f59a6b42a2
+
 ## 실행화면
 - 추가 예정
